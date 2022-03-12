@@ -1,6 +1,6 @@
 ## Hi, I'm Sebastiaan 🚀
 
-- 👨‍💻 Information Analyst at [CGI Netherlands](https://www.cgi.com/)
+- 👨‍💻 Experienced DevOps Engineer at [CGI Netherlands](https://www.cgi.com/)
 - ⚡ Currently working on improving the Low-Code Developer Experience
 - 🗺️ Exploring the world of Geo-Information Science
 - 🛸 Organiser of 2018/ 2019 [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) in the Netherlands
