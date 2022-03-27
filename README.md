@@ -20,7 +20,7 @@
   
   <!--  Framework  -->
   <img align="center" alt="Flutter" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Django" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-workmark.svg">
+  <img align="center" alt="Django" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   
   <!--  Databases  -->
   <img align="center" alt="Postgres" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
