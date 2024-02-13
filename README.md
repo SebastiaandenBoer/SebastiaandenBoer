@@ -3,7 +3,7 @@
 - 👨‍💻 Principal IT Architect at [CGI Netherlands](https://www.cgi.com/)
 - 🧪 Working on improving the Mendix Developer Experience
 - 🗺️ Currently exploring the world of Test Automation and CI/CD in the Mendix ecosystem
-- 🚀 Organiser of 2018/ 2019 [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) in the Netherlands
+- 🚀 Organizer of 2018/ 2019 [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) in the Netherlands
 
 ### Let's connect!
 
