@@ -1,6 +1,6 @@
 ## Hi, I'm Sebastiaan 🚀
 
-- 👨‍💻 Expert Mendix Developer at [NS (Dutch Railways)](https://www.werkenbijns.nl/)
+- 👨‍💻 Mendix Expert Developer at [NS (Dutch Railways)](https://www.werkenbijns.nl/)
 - 🧪 Working on improving the Mendix Developer Experience
 - 🗺️ Exploring the world of Test Automation and CI/CD in the Mendix ecosystem
 - 🚀 Organizer of 2018/ 2019 [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) in the Netherlands
