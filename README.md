@@ -1,8 +1,8 @@
 ## Hi, I'm Sebastiaan 🚀
 
-- 👨‍💻 Principal IT Architect at [CGI Netherlands](https://www.cgi.com/)
+- 👨‍💻 Expert Mendix Developer at [NS (Dutch Railways)](https://www.werkenbijns.nl/)
 - 🧪 Working on improving the Mendix Developer Experience
-- 🗺️ Currently exploring the world of Test Automation and CI/CD in the Mendix ecosystem
+- 🗺️ Exploring the world of Test Automation and CI/CD in the Mendix ecosystem
 - 🚀 Organizer of 2018/ 2019 [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) in the Netherlands
 
 ### Let's connect!
